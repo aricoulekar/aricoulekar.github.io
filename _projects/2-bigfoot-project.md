@@ -24,9 +24,5 @@ This chart visualizes the geographic distribution of Bigfoot sightings across th
   The Data
 </a>
 </div>
-
-<div class="right">
-<a class="m-1 btn btn-outline-primary btn-2" href="https://github.com/aricoulekar/aricoulekar.github.io/blob/main/python_notebooks/bigfoot_analysis.ipynb">
-  The Analysis
 </a>
 </div>
