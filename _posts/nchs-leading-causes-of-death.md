@@ -1,9 +1,9 @@
 ---
-title: "How Americans Die": The Evolution of the Lead Causes of Death from 1999 to 2017
+title: "How Americans Die: The Evolution of the Lead Causes of Death from 1999 to 2017"
 tags: [Health]
 style: fill
 color: dark
-description: An interactive exploration of how the leading causes of death in the US have changed from 1999 to 2017.
+description: "An interactive exploration of how the leading causes of death in the US have changed from 1999 to 2017."
 ---
 
 *Author: Ari Coulekar*
@@ -15,6 +15,10 @@ The Center for Disease Control and Prevention (or the CDC) tracks numerous amoun
 ## How the Causes of Death have Changed: The Data
 
 The interactive chart below shows the age-adjusted death rate (per 100,000 people) for the top 10 leading causes of death in the United states from 1999 to 2017. Each line represents a single cause of death, and each node represents a cause of death, the year, and the death rate per 100,000 people. Clicking on a point in the legend will highlight that specific cause of death. 
+
+<script src="https://cdn.jsdelivr.net/npm/vega@5"></script>
+<script src="https://cdn.jsdelivr.net/npm/vega-lite@5"></script>
+<script src="https://cdn.jsdelivr.net/npm/vega-embed@6"></script>
 
 <script>
   var spec = nchs_chart.json;
