@@ -56,3 +56,10 @@ The interactive chart below shows the age-adjusted death rate (per 100,000 peopl
   };
   vegaEmbed('#vis', spec, {actions: false});
 </script>
+
+## The Heart Disease Trend
+
+The most obvious trend in the data is the decline in heart disease over the years. In 1999, heart disease killed roughyl 267 people per 100,000 on average, and that number has dropped to about 165 by 2017. So what could have possibly caused this staggering drop? This is due to a combination of different factors such as medical interventions like statins, better management of high blood pressure and cholesterol due to lifestyle choices, and reduced smoking rates nationwide. Although heart disease remains the #1 leading cause of death in the US, it is certainly not as drastic the beginngng of the 19 years spanned in the data. 
+
+##
+
