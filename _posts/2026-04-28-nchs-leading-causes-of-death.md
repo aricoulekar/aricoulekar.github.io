@@ -69,4 +69,6 @@ Through the visualization, it can be easily observed that most leading causes of
 
 <img src="https://www.cdc.gov/obesity/media/images/2025/11/2024_Overall.svg" alt="Obseity Map from the CDC" style="width:100%; max-width:700px;">
 
+![Cigarette smoking rates for adults and youth in the US, 1965-2022](/assets/images/smoking_trends.png)
 
+meow
