@@ -87,7 +87,7 @@ Understanding the trends that exist in both the leading causes of death as well 
 
 ## Data Sources and Citations
 
-1. Data: https://catalog.data.gov/dataset/nchs-leading-causes-of-death-united-states
-2. Contextual Viz 1: https://www.cdc.gov/obesity/data-and-statistics/adult-obesity-prevalence-maps.html#cdc_data_surveillance_section_15-map-overall-obesity
-3. Contextual Viz 2: https://www.lung.org/research/trends-in-lung-disease/tobacco-trends-brief/overall-smoking-trends
-4. Analysis notebook: https://github.com/aricoulekar/aricoulekar.github.io/blob/main/python_notebooks/nchs.ipynb
+1. [NCHS - Leading Causes of Death in the US](https://catalog.data.gov/dataset/nchs-leading-causes-of-death-united-states)
+2. [CDC - Adult Obesity Prevalence Maps](https://www.cdc.gov/obesity/data-and-statistics/adult-obesity-prevalence-maps.html#cdc_data_surveillance_section_15-map-overall-obesity)
+3. [American Lung Association - Overall Smoking Trends](https://www.lung.org/research/trends-in-lung-disease/tobacco-trends-brief/overall-smoking-trends)
+4. [Analysis notebook](https://github.com/aricoulekar/aricoulekar.github.io/blob/main/python_notebooks/nchs.ipynb)
