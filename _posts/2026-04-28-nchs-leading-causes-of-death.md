@@ -10,7 +10,7 @@ description: "An interactive exploration of how the leading causes of death in t
 
 ## Introduction
 
-The Center for Disease Control and Prevention (or the CDC) tracks numerous amounts of health data for the United States. Some of the statistics they track include the leading causes of death. Using these numbers, we can not only track how many people across the United States pass away from these causes, but also how factors such as how the evolution of medicine, treatments, and health policies can shape the trends of life and death.
+The Center for Disease Control and Prevention (or the CDC) tracks numerous amounts of health data for the United States. Some of the statistics they track include the leading causes of death. Using these numbers, we can not only track how many people across the United States pass away from these causes, but also how factors such as how the evolution of medicine, treatments, and health policies can shape the trends of life and death. This post explores these changes using [data from the National Center for Health Statistics](https://catalog.data.gov/dataset/nchs-leading-causes-of-death-united-states)
 
 ## How the Causes of Death have Changed: The Data
 
