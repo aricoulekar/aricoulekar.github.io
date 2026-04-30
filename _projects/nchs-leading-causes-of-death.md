@@ -5,6 +5,7 @@ style: fill
 color: dark
 description: "An interactive exploration of how the leading causes of death in the US have changed from 1999 to 2017."
 ---
+# "How Americans Die: The Evolution of the Lead Causes of Death from 1999 to 2017"
 
 *Author: Ari Coulekar*
 
